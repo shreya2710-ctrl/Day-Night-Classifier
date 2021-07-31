@@ -4,7 +4,7 @@ We're trying to build a classifier that can accurately label these images as day
 After building this model, it is concluded that most simple problems can be solved using traditional image processing, and doesn't need Advanced Deep Learning concepts always.
 
 *Note: All images come from the AMOS Dataset(Archive of Many Outdoor Scenes).
-You can download the dataset from [here](https://drive.google.com/drive/u/2/folders/17cnu71gZMhaqn7zeefVp7eaLxhdbryP_)*
+You can download the dataset from [here](https://drive.google.com/drive/u/2/folders/17cnu71gZMhaqn7zeefVp7eaLxhdbryP_).*
 
 STEPS INVOLVED--
 1. Importing Libraries:
